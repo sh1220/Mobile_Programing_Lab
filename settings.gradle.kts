@@ -23,3 +23,5 @@ rootProject.name = "MyappBB"
 include(":app")
 include(":bweek03b")
 include(":mylecb")
+include(":bweek05a")
+include(":b_lab2")
